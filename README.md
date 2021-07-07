@@ -1,2 +1,2 @@
 # Kodluyoruz
-Kodluyoruz.org html eğitimi bölüm sonu çalışması
+Kodluyoruz.org HTML eğitimi bölüm sonu çalışması
