@@ -1,2 +1,2 @@
-# html-bolumSonu-calismasi
+# Kodluyoruz
 kodluyoruz html eğitimi bölüm sonu çalışması
